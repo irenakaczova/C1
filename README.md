@@ -1,1 +1,1 @@
-learning basics:triangular_ruler:
+learning basics :triangular_ruler:
